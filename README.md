@@ -40,9 +40,9 @@ Data Cleaning Techniques
 ![Image](https://github.com/user-attachments/assets/16559d63-3175-406e-afdd-02af8e356558)
 
 ### ✨ Insights Gained
-Identified top-performing customers and regions driving sales.
-Recognized seasonal trends affecting revenue and profit.
-Provided an interactive dashboard for quick business decision-making.
+* Identified top-performing customers and regions driving sales.
+* Recognized seasonal trends affecting revenue and profit.
+* Provided an interactive dashboard for quick business decision-making.
 
 ### 📌 Repository Structure
 bash
