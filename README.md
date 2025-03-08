@@ -50,7 +50,7 @@ Copy
 Edit
 
 📂 Excel-Sales-Dashboard  
- ├── 📄 Sales_Analysis.xlsx  # Excel file with dashboard & analysis  
+ ├── 📄 ProjectExcel.xlsx  # Excel file with dashboard & analysis  
  ├── 📄 README.md            # Project documentation  
  └── 📁 Images               # Screenshots of dashboard & charts  
 
