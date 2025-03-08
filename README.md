@@ -10,12 +10,14 @@ This project involves analyzing and visualizing sales data from 9,000+ records u
 ##### ✅ Customer Segmentation – Categorized products and analyzed customer purchasing behavior.
 ##### ✅ Dynamic Dashboard – Created an interactive Excel dashboard consolidating all key insights for easy decision-making.
 
-📊 Visualizations Used
+### 📊 Visualizations Used
+
 Bar Charts – Sales by category and customer segments
 Line Graphs – Revenue and profit trends over time
 Pie Charts – Product category distribution and customer demographics
 Pivot Tables – Structured data for in-depth insights
-🚀 How to Use
+
+### 🚀 How to Use
 Download the Excel file from the repository.
 Open the file in Microsoft Excel (2016 or later).
 Navigate through the dashboard and pivot tables to explore insights.
@@ -30,6 +32,12 @@ Data Cleaning Techniques
 
 ##### 📷 Dashboard Preview
 (Attach a screenshot of your dashboard here)
+![Image](https://github.com/user-attachments/assets/10824560-9b32-4ef9-94d7-bdbdb16cc6d4)
+![Image](https://github.com/user-attachments/assets/0b7f8905-3f0e-46ad-9533-a922e6aeb80e)
+![Image](https://github.com/user-attachments/assets/af79e1bf-769e-438f-8e71-ed25de509fb4)
+![Image](https://github.com/user-attachments/assets/195bf47f-be85-4acb-a153-3194f86c6021)
+![Image](https://github.com/user-attachments/assets/472cc49d-9ab7-4442-b2c0-0b86f3b65fbc)
+![Image](https://github.com/user-attachments/assets/16559d63-3175-406e-afdd-02af8e356558)
 
 ### ✨ Insights Gained
 Identified top-performing customers and regions driving sales.
@@ -50,4 +58,4 @@ Edit
 Feel free to fork this repository, report issues, or suggest improvements.
 
 #### 📬 Contact
-For any queries, reach out via [Your Email/GitHub Profile].
+For any queries, reach out via muk.786422@gmail.com.
