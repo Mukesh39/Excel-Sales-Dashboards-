@@ -30,7 +30,7 @@ Fields: Date, Customer ID, Category, Product, Revenue, Profit, Region, State, et
 Microsoft Excel (Pivot Tables, Charts, Dashboards)
 Data Cleaning Techniques
 
-##### 📷 Dashboard Preview
+### 📷 Dashboard Preview
 (Attach a screenshot of your dashboard here)
 ![Image](https://github.com/user-attachments/assets/10824560-9b32-4ef9-94d7-bdbdb16cc6d4)
 ![Image](https://github.com/user-attachments/assets/0b7f8905-3f0e-46ad-9533-a922e6aeb80e)
