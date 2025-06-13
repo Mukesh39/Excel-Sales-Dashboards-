@@ -38,6 +38,8 @@ Data Cleaning Techniques
 ![Image](https://github.com/user-attachments/assets/195bf47f-be85-4acb-a153-3194f86c6021)
 ![Image](https://github.com/user-attachments/assets/472cc49d-9ab7-4442-b2c0-0b86f3b65fbc)
 ![Image](https://github.com/user-attachments/assets/16559d63-3175-406e-afdd-02af8e356558)
+![11](https://github.com/user-attachments/assets/87cb2ba2-209b-4b39-95d1-d24f981f124a)
+
 
 ### ✨ Insights Gained
 * Identified top-performing customers and regions driving sales.
